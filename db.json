@@ -1,0 +1,43 @@
+{
+  "employee": [
+    {
+      "id": 5,
+      "name": "Jepri",
+      "email": "jeprinik@umy.ac.id",
+      "phone": "08461611"
+    },
+    {
+      "id": 7,
+      "name": "Adit Durian",
+      "email": "adit0000@gk.ac.id",
+      "phone": "0856411"
+    },
+    {
+      "id": 8,
+      "name": "Rehan",
+      "email": "rehna26416@ugm.ac",
+      "phone": "02251515"
+    },
+    {
+      "name": "afi",
+      "email": "adi2100016071@webmail.uad.ac.id",
+      "phone": "08880111",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "Regina Oksa Cantik Jelita Imut tiada Tara",
+      "email": "ginaluvcy@gmail.com",
+      "phone": "123456789",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "Prima Samudra Pasifik Hindia Purwodadi",
+      "email": "purwodadi@gmai.com",
+      "phone": "0123456789",
+      "active": true,
+      "id": 11
+    }
+  ]
+}
